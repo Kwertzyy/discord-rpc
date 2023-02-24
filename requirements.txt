@@ -1,0 +1,6 @@
+discord
+pywin32
+pypresence
+pystyle
+time
+os
